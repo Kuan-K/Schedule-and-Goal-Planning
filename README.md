@@ -98,7 +98,7 @@ oai-aerial-metanoia-internship/
 | 07/26～08/02 | OAI L2+ ↔ Aerial cuPHY 深入  | 深入 FAPI、NVIPC、cuPHYController、slot timing、config map                  | `fapi-overview.md`, `nvipc-overview.md`, `oai-to-cuphy-message-flow.md`, `slot-timing-notes.md`, `l2-l1-debug-checklist.md`                              |
 | 08/03～08/09 | Metanoia O-RU 接入前準備        | 蒐集 Metanoia hardware、network、PTP、RF、eCPRI、eAxC、compression 資訊         | `metanoia-hardware-profile.md`, `metanoia-network-config.md`, `metanoia-ptp-config.md`, `metanoia-oru-readiness-checklist.md`                            |
 | 08/10～08/16 | Metanoia O-RU bring-up     | 修改 cuPHYController YAML 與 OAI config；確認 PTP、VLAN、eCPRI、fronthaul      | `bringup-plan.md`, `cuphycontroller-metanoia-yaml-notes.md`, `oai-gnb-metanoia-config-notes.md`, `ptp-lock-test-result.md`, `ecpri-connectivity-test.md` |
-| 08/17～08/23 | OTA 驗證與 UE attach          | 確認 O-RU on-air、UE detect cell、RACH、RRC/NAS、PDU session                | `oru-onair-check.md`, `ue-attach-test-result.md`, `integration-issue-list.md`                                                                            |
+| 08/17～08/23 | OTA 驗證與 UE attach          | 確認 O-RU on-air、UE detect cell、RACH、RRC/NAS、PDU session                | `ue-attach-test-result.md`                                                                            |
 | 08/24～08/31 | E2E traffic + final report | ping / iperf / debug；整理 final summary、unresolved issues、next step     | `ping-test-result.md`, `iperf-test-result.md`, `internship-final-summary.md`, `debug-guide.md`, `next-step-recommendation.md`                            |
 
 
