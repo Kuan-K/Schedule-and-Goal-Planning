@@ -1,5 +1,11 @@
 # Aerial Testbed study note
 
+> Reference :
+> 
+>   https://docs.nvidia.com/aerial/testbed/latest/text/product_description/index.html
+>
+>   https://docs.nvidia.com/aerial/testbed/latest/text/installation_guide/manual_install.html
+
 ## Topic
   1.  [architecture](#architecture)
   2.  [Key Features and Specifications](#Key-Features-and-Specifications)
