@@ -2,7 +2,7 @@
 
 ## Topic
   1.  [architecture](#architecture)
-  2.  [Key Features and Specifications](#KeyFeaturesandSpecifications)
+  2.  [Key Features and Specifications](#Key-Features-and-Specifications)
 
 ## architecture
 
